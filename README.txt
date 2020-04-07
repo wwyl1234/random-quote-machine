@@ -1,3 +1,6 @@
+The app is located at https://wwyl1234.github.io/random-quote-machine/.
+
+
 This is a random quote machine intended to fulfill the following requirements from 
 https://www.freecodecamp.org/learn/front-end-libraries/front-end-libraries-projects/build-a-random-quote-machine:
 

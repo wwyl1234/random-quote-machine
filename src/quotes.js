@@ -14,10 +14,7 @@ const QUOTES = [
     },
     {
         author: `Albert Einstein`,
-        quote: `Man tries to make for himself in the fashion that suits him best a simplified and intelligible picture of 
-        the world; he then tries to some extent to substitute this cosmos of his for the world of experience, 
-        and thus to overcome it. This is what the painter, the poet, the speculative philosopher, and the natural scientist do,
-         each in his own fashion.`
+        quote: `Man tries to make for himself in the fashion that suits him best a simplified and intelligible picture of the world; he then tries to some extent to substitute this cosmos of his for the world of experience, and thus to overcome it. This is what the painter, the poet, the speculative philosopher, and the natural scientist do, each in his own fashion.`
     },
     {
         author: `Michelangelo di Lodovico Buonarroti Simoni`,
@@ -37,14 +34,11 @@ const QUOTES = [
     },
     {
         author: `Jane Austen`,
-        quote: `I do not want people to be very agreeable, as it saves me the trouble of liking them a 
-        great deal.`
+        quote: `I do not want people to be very agreeable, as it saves me the trouble of liking them a great deal.`
     },
     {
         author: `Jane Austen`,
-        quote: `I had a very pleasant evening, however, though you will probably find out that there was 
-        no particular reason for it; but I do not think it worth while to wait for enjoyment until there 
-        is some real opportunity for it.`
+        quote: `I had a very pleasant evening, however, though you will probably find out that there was no particular reason for it; but I do not think it worth while to wait for enjoyment until there is some real opportunity for it.`
     }, 
     {
         author: `Walt Elias Disney`,
@@ -72,20 +66,15 @@ const QUOTES = [
     }, 
     {
         author: `Bill Gates`,
-        quote: `The finest pieces of software are those where one individual has a complete sense of exactly how 
-        the program works. To have that, you have to really love the program and concentrate on keeping it simple, 
-        to an incredible degree.`
+        quote: `The finest pieces of software are those where one individual has a complete sense of exactly how the program works. To have that, you have to really love the program and concentrate on keeping it simple, to an incredible degree.`
     }, 
     {
         author: `Bill Gates`,
-        quote: `Unfortunately, many programs are so big that there is no one individual who really knows all the pieces, 
-        and so the amount of code sharing you get isn't as great. Also, the opportunity to go back and really rewrite 
-        something isn't quite as great, because there's always a new set of features that you're adding on to the same program.`
+        quote: `Unfortunately, many programs are so big that there is no one individual who really knows all the pieces, and so the amount of code sharing you get isn't as great. Also, the opportunity to go back and really rewrite something isn't quite as great, because there's always a new set of features that you're adding on to the same program.`
     }, 
     {
         author: `Bill Gates`,
-        quote: `The worst programs are the ones where the programmers doing the original work don't lay a solid foundation, 
-        and then they're not involved in the program in the future.`
+        quote: `The worst programs are the ones where the programmers doing the original work don't lay a solid foundation, and then they're not involved in the program in the future.`
     }, 
     {
         author: `Bill Gates`,
